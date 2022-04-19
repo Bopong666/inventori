@@ -50,6 +50,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![image](https://user-images.githubusercontent.com/77429113/164016008-17eb8f1f-716b-41fa-8dce-3441306b378d.png)
 
 ## Code of Conduct
 
